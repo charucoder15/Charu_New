@@ -21,3 +21,11 @@
 | ----------- | ----------- |---------|
 | 19-07-2024|Teacher jaswinder singh |
 | Sir taught us about the magics hide behind science with hin wonderful experiments|
+
+# Charu_coder
+## Activity report of student induction programme 2024
+
+| Date | Resource person |Description |
+| ----------- | ----------- |-----------|
+| 22-07-2024 | Dr pushpinder singh|
+| Dr.Pushpinder singh taught us many important things about exams, learning strategies| 
