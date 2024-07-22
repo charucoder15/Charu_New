@@ -25,3 +25,16 @@
 | ----------- | ----------- |---------|
 | 19-07-2024|Teacher jaswinder singh |
 | Sir taught us about the magics hide behind science with hin wonderful experiments|
+
+# Charucoder15.github.io
+##Activity report of student induction program2024
+
+| Date  | Resource person|Description|
+| ----------- | ----------- |----------|
+| 19-07-2024 | Miss kanwardep kalra|
+| Miss kanwardeep mam told us about how to improve our soft skills |
+| Date | Resource person|Description|
+| ----------- | ----------- |---------|
+| 19-07-2024|Teacher jaswinder singh |
+| Sir taught us about the magics hide behind science with hin wonderful experiments|
+
