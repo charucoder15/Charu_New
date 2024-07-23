@@ -29,3 +29,11 @@
 | ----------- | ----------- |-----------|
 | 22-07-2024 | Dr pushpinder singh|
 | Dr.Pushpinder singh taught us many important things about exams, learning strategies| 
+
+#Charu_coder
+##Activity report of student induction program 2024
+
+| Date | Resource person|Description|
+| ----------- | ----------- |---------|
+| 23-07-2024 | seniors |
+| peer interaction technical| our seniors introduced us with the machine learning of AI and some other functions of Excel |
