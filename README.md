@@ -37,3 +37,12 @@
 | ----------- | ----------- |---------|
 | 23-07-2024 | seniors |
 | peer interaction technical| our seniors introduced us with the machine learning of AI and some other functions of Excel |
+
+
+#Charu_coder
+##Activity report of student induction program 2024
+
+|Date| Resource person|Description |
+| ----------- | ----------- |----------|
+| 24-07-2024 | Mr.Gauravdeep singh|
+Mr.Gauravdeep Singh sir has taught us his own inspirational journey of becoming such a blessed soul |
