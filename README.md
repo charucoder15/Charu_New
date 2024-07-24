@@ -44,5 +44,4 @@
 
 |Date| Resource person|Description |
 | ----------- | ----------- |----------|
-| 24-07-2024 | Mr.Gauravdeep singh|
-Mr.Gauravdeep Singh sir has taught us his own inspirational journey of becoming such a blessed soul |
+| 24-07-2024 | Mr.Gauravdeep singh|Mr Gauravdeep sir has taught us his inspiration journey throughout his childhood of becoming such a blessed soul|
