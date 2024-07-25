@@ -45,3 +45,11 @@
 |Date| Resource person|Description |
 | ----------- | ----------- |----------|
 | 24-07-2024 | Mr.Gauravdeep singh|Mr Gauravdeep sir has taught us his inspiration journey throughout his childhood of becoming such a blessed soul|
+
+#Charu_coder
+##Activity report of student induction program 2024
+
+| Date | Resource person|Description |
+| ----------- | ----------- |----------|
+| 25-07-2024 | Professor Nisha masson mam|
+| proffesor Nisha masson takes a small activity test of universal human values|  
