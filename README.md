@@ -52,4 +52,12 @@
 | Date | Resource person|Description |
 | ----------- | ----------- |----------|
 | 25-07-2024 | Professor Nisha masson mam|
-| proffesor Nisha masson takes a small activity test of universal human values|  
+| proffesor Nisha masson takes a small activity test of universal human values|
+
+#Charu_coder
+##Activity report of student induction program 2024
+
+| Date |Resource person|Description |
+| ----------- | ----------- |-----------|
+| 26-07-2024 | (H.O.D)|Last day of student induction program|
+| Many performances are done by first year students and a prize distribution ceremony is also held there|
