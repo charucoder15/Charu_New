@@ -60,4 +60,4 @@
 | Date |Resource person|Description |
 | ----------- | ----------- |-----------|
 | 26-07-2024 | (H.O.D)|Last day of student induction program|
-| Many performances are done by first year students and a prize distribution ceremony is also held there|
+| Many performances are done by first year students and a prize distribution ceremony is also held here|
